@@ -7,11 +7,11 @@
 #
 
 print('숫자를 입력하세요.')
-a = int(input())
+키 = int(input())
 
-if a >= 180:
+if 키 >= 180:
     print("키가 크다.")
-elif a >= 150 and a < 180:
+elif 키 >= 150 and 키 < 180:
     print("키가 보통이다.")
 else:
     print("키가 작다.")

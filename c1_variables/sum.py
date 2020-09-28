@@ -6,11 +6,11 @@
 #
 
 print('첫 번째 숫자를 입력하세요.')
-a = int(input())
+숫자1 = int(input())
 
 print('두 번째 숫자를 입력하세요.')
-b = int(input())
+숫자2 = int(input())
 
-c = a + b
+더한값 = 숫자1 + 숫자2
 
-print('%d + %d = %d 입니다.' % (a, b, c))
+print('%d + %d = %d 입니다.' % (숫자1, 숫자2, 더한값))

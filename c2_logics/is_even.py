@@ -6,9 +6,9 @@
 #
 
 print('숫자를 입력하세요.')
-a = int(input())
+숫자 = int(input())
 
-if a % 2 == 0:
+if 숫자 % 2 == 0:
     print("짝수 입니다.")
 else:
     print("홀수 입니다.")
