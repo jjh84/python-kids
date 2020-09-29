@@ -7,5 +7,5 @@
 a = 0
 
 while a < 10:
-    print('안녕!')
+    print("안녕!")
     a = a + 1
